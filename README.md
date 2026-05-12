@@ -1,4 +1,5 @@
-# Brain Tumor MRI — Análisis de Datos con Computer Vision
+# IMAGE Project: Brain Tumor Image Classification & Generation
+# AUTHORS: Paula Echamendi & Carmen Miralles 
 
 Proyecto de análisis completo de imágenes médicas de resonancia magnética (MRI) cerebral,
 abarcando desde el análisis exploratorio hasta la generación sintética de imágenes mediante
@@ -38,6 +39,8 @@ Autoras: Carmen Miralles y Paula Echamendi
 ├── 4. Object Detection.ipynb
 └── 5. Generative.ipynb
 ```
+
+> **Las carpetas `data/`, `features/`, `modelos/` y `gan_models/` no están subidas al repositorio** porque el tamaño de los archivos supera el límite permitido por GitHub. Están disponibles en Google Drive.
 
 ---
 
@@ -150,3 +153,9 @@ NB1 (EDA) → NB2 (ML baseline) → NB3 (DL, genera modelos/) → NB4 (GradCAM) 
 
 NB4 y NB5 cargan directamente los checkpoints guardados por NB3, por lo que **NB3 debe
 haberse ejecutado previamente** (o los archivos `.pth` deben estar presentes en `modelos/`).
+
+---
+
+## Autoras
+Carmen Miralles & Paula Echamendi
+Proyecto académico de NLP aplicado a datos no estructurados.
