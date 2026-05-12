@@ -5,8 +5,6 @@ Proyecto de análisis completo de imágenes médicas de resonancia magnética (M
 abarcando desde el análisis exploratorio hasta la generación sintética de imágenes mediante
 redes generativas adversariales.
 
-Autoras: Carmen Miralles y Paula Echamendi
-
 ---
 
 ## Estructura del proyecto
