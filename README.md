@@ -156,4 +156,4 @@ haberse ejecutado previamente** (o los archivos `.pth` deben estar presentes en 
 
 ## Autoras
 Carmen Miralles & Paula Echamendi
-Proyecto académico de NLP aplicado a datos no estructurados.
+Proyecto académico de Imagen aplicado a datos no estructurados.
